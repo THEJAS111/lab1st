@@ -1,0 +1,56 @@
+body{
+
+    background-color:rgb(255, 255, 254);
+    backface-visibility: visible;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+
+
+}
+
+header {
+
+    text-align:center;
+
+}
+
+.languages{
+    color:rgb(233, 210, 210);
+    text-align: center;
+    list-style:none;
+    border: 5px black outset;
+    background-color: rgb(79, 71, 68);
+    text-align: center;
+    font-size: large;
+
+    text-decoration:none;
+    padding: 0%;
+}
+
+.a{
+
+    color:white;
+    background-color: rgb(150, 95, 193);
+    border: 5px black outset;
+
+}
+.d
+{    
+    background-color: rgb(154, 227, 227);
+    color:chocolate;
+    text-align: center;
+    border: 5px black outset;
+    font-family: sans-serif;
+    font-size: large;
+
+
+}
+.b
+{
+    border: 1px solid black;
+    justify-content:last baseline;
+    width: 1600px;
+    background-color: rgb(135, 231, 244);
+
+}
